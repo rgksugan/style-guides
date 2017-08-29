@@ -45,7 +45,7 @@ Writing effecient HTML guidelines means
 **[⬆ back to top](#table-of-contents)**
 
 <a name='accessibility'></a>
-## 2. Use semantic elements
+## 12. Accessibility
 
   Accessibility shouldn't be an afterthought. You don't have to be a WCAG expert to improve your
 website, you can start immediately by fixing the little things that make a huge difference, such as:
